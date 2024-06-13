@@ -1,3 +1,4 @@
+https://colab.research.google.com/github/Mohammadkhan18/saif-bhai/blob/main/asd.ipynb
 # Autism-Spectrum-Disorder
 "Machine learning enhances autism spectrum disorder (ASD) diagnosis by providing faster and more accurate predictions compared to traditional methods. ASD, a lifelong neuro-disorder, impacts communication and interaction. Early detection through ML minimizes diagnostic time and medical costs, crucial for improving ASD management and enhancing the quality of life."
 
